@@ -156,7 +156,7 @@
   
   .blue-btn {
     margin: 2rem auto;
-    width: ;
+    width: 30%;
     color: #fff;
     background-color: #0070ba;
     padding: 1rem;
@@ -315,7 +315,7 @@ padding-left: 2rem;
   @media (max-width: 600px) {
 .banner h1 {
   font-size: 3.5rem;
-  text-align:left ;
+  text-align:center ;
  
   
 }
@@ -360,7 +360,7 @@ padding-left: 2rem;
 .section-4 h1 {
   font-size: 3rem;
   text-align: center;
-  
+
 }
 
 .safer h2, .saferr h2 {
