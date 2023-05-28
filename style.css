@@ -309,19 +309,19 @@ padding-left: 2rem;
       padding-right: 10rem;
   }
 
-  
-
-}
-
-@media (min-width: 601px){
   .section-1 {
     height: 50rem;
   
   }
   
- .section-1 .banner  {
+  .section-1 .banner  {
   top:30% ;
   }
+
+}
+
+@media (min-width: 601px){
+
   
 }
 
