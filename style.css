@@ -11,6 +11,8 @@
   letter-spacing: .1rem;
 }
 
+
+
 html {
   font-size: 62.5%;
 }
@@ -246,6 +248,201 @@ letter-spacing: .1rem;
   border: 1px solid #0070ba;
 }
 
+/* End of Section-2 */
+
+ 
+/* Start of Section-3 */
+
+
+/* CSS for mobile and tablet view */
+.section-3 {
+  background-color: #f7f9fa;
+  color: #666;
+  font-family: pp-sans-small-regular,Helvetica Neue,Arial,sans-serif;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+ 
+ }
+
+.section-3 button {
+  /* width: 50%; */
+  /* margin: 3rem auto;
+  margin-left: 20rem; */
+  margin: 3rem auto 5rem auto;
+  width: 50%;
+  color: #0070ba;
+  background-color: transparent;
+  padding: 1rem;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 1.5rem;
+  border-radius: 5rem;
+  border: 1px solid #0070ba;
+}
+ 
+ 
+ .section-3-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+ 
+.try {
+  text-align: center;
+  width: 34rem;
+}
+.buyers {
+  text-align: center;
+  font-size: 1.5rem;
+  color: grey;
+  margin-top: 2rem;
+}
+
+.linee {
+  width: 20%;
+  margin: auto;
+  color: black;
+  margin: 1rem auto 4rem auto;
+}
+
+.section-3-wrapper hr {
+ display: block;
+ width: 100%;
+  margin: auto;
+  margin: 1rem auto 4rem auto;
+
+}
+/* .section-3-wrapper .blue-btn {
+  margin:3rem auto;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+
+} */
+
+.imagediv {
+  width: 50%;
+  margin: 0 auto;
+}
+.section-3 h1 {
+  padding: 4rem 1rem;
+  text-align: center;
+}
+
+.descriptionpara {
+  text-align: left;
+  color: #262626;
+  font-size: 1.5rem;
+  /* width: 50%; */
+  /* margin-left: 5rem; */
+
+
+}
+
+.link-signup {
+  color: #0070ba;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.link-signup:hover {
+  text-decoration: underline;
+}
+
+.section-3-wrapper span {
+  border: 1px solid silver;
+  border-radius: 50%;
+  float: left;
+  font-weight: 700;
+  flex-direction: row;
+  justify-content: center;
+  padding: 11px 18px;
+  margin-left:-8rem;
+  color:#666;
+  background-color:transparent;
+}
+/* dont foget */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .section-3-wrapper {
+    /* flex-direction: row;
+    align-items: center; */
+
+    /* overflow: auto; */
+
+  }
+
+  .linee {
+    width: 10%;
+    
+  }
+.section-3-wrapper hr {
+  display: none;
+}
+  .imagediv {
+  
+    width: 50%;
+    float: left;
+    margin-right: 20px;
+  }
+
+  .descriptionpara {
+    /* margin-top: 20px;
+    text-align: center; */
+
+    margin-top: 0;
+  }
+ 
+ 
+ 
+  /* .section-3-wrapper {
+
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .imagediv {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  .descriptionpara {
+    text-align: center;
+    margin-top: 20px;
+  } */
+}
+
+/* CSS for laptop view */
+@media screen and (min-width: 768px) {
+
+
+   .section-3-wrapper {
+        flex-direction: row; 
+        align-items: center;
+      }
+
+      .imagediv {
+        width: 50%;
+      }
+
+     .section-3-wrapper .lines {
+        display: none;
+        
+      } 
+
+      .descriptionpara {
+        text-align: left;
+        margin-top: 10px;
+      }
+}
+
+
+
 /* End of Section-3 */
 
 /* Start of Section-4 */
@@ -315,6 +512,7 @@ padding-left: 2rem;
   }
   
   .section-1 .banner  {
+    position: absolute;
   top:30% ;
   }
 
@@ -397,6 +595,14 @@ font-size: 2.4rem;
 width: 50%;
 margin: 2rem auto ;
 
+}
+
+.section-3 .blue-btnn {
+  width: 50%;
+margin: 2rem auto ;
+justify-content: center;
+align-items: center;
+text-align: center;
 }
 .section-5-wrapper .but {
 width: 90%;
