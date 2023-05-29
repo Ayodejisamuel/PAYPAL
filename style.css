@@ -368,7 +368,7 @@
     background-color:transparent;
   }
   /* dont foget */
-  @media screen and (min-width: 601px) and (max-width: 1024px) {
+  @medi screen and (min-width: 601px) and (max-width: 1024px) {
     .section-3-wrapper {
       /* flex-direction: row;
       align-items: center; */
