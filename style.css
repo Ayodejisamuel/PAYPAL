@@ -624,7 +624,9 @@
   .section-4-wrapper {
     margin: 5rem auto;
   }
-
+.container h2 {
+  /* font-weight: 100; */
+}
   .shop {
     font-size: 1.4rem;
     width: 80%;
@@ -644,7 +646,7 @@
     margin: 0.3rem 0.1rem;
     font-family: pp-sans-big-light, Helvetica Neue, Arial, sans-serif;
 
-    font-weight: 100;
+    /* font-weight: 100; */
   }
   .more {
     font-size: 1.5rem;
@@ -742,6 +744,8 @@
   .footer-bottom li {
   color: gray;
   }
+
+
 
   .footer-para {
   width: 90%;
