@@ -3,12 +3,12 @@
 //making dropdown work on mouseover and mouseout
 dropdownItems.addEventListener('mouseover', () => {
     dropdownItems.lastElementChild.style.cssText= 'opacity: 1; visibility:visible';
-    document.querySelector('.navbar-wrapper').style.backgroundColor = '#fff'
+    document.querySelector('.navbar-wrapper').style.background = '#fff'
 })
 
 dropdownItems.addEventListener('mouseout', () => {
     dropdownItems.lastElementChild.style.cssText= 'opacity: 0; visibility:hidden';
-    document.querySelector('.navbar-wrapper').style.backgroundColor = '#fff'
+    document.querySelector('.navbar-wrapper').style.background = '#fff'
 })
 
 
