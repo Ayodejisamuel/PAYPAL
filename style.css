@@ -1123,9 +1123,16 @@ input[type=number]:focus {
   
   @media (max-width: 1500px) {
     
-    
-  
-    
+      .nav-dropdown {
+        padding: 0 25rem;
+      }
+
+      .nav-dropdown-item {
+        margin: 2rem 6rem;
+      }
+
+
+      
       .features {
         width: 80%;
       }
