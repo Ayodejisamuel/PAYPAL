@@ -1406,21 +1406,7 @@ input[type="number"]:focus {
     width: 90%;
   }
 
-  .signup-page-top {
-    width: 40rem;
-  }
-
-  .signup-page-content {
-    width: 100%;
-  }
-
-  .signup-page-content-left {
-    display: none;
-  }
-
-  .signup-page-content-right {
-    width: 100%;
-  }
+ 
 }
 
 @media (max-width: 400px) {
