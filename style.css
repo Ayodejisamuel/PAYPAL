@@ -1117,9 +1117,9 @@ input[type="number"]:focus {
   }
 
 @media (max-width: 1400px) {
-  html {
+/*   html {
     font-size: 55%;
-  }
+  } */
 
   .navbar {
     width: 100rem;
@@ -1154,10 +1154,10 @@ input[type="number"]:focus {
 }
 
 @media (max-width: 1000px) {
-  html {
+/*   html {
     font-size: 50%;
   }
-
+ */
   .navbar {
     width: 100%;
     padding: 0 5rem;
@@ -1354,9 +1354,9 @@ input[type="number"]:focus {
 }
 
 @media (max-width: 800px) {
-  html {
+/*   html {
     font-size: 45%;
-  }
+  } */
 
   .section-2 {
     padding: 10rem 0;
