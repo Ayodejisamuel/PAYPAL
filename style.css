@@ -1118,7 +1118,7 @@ input[type="number"]:focus {
 
 @media (max-width: 1400px) {
   html {
-    font-size: 55%;
+    font-size: 62%;
   }
 
   .navbar {
@@ -1155,7 +1155,7 @@ input[type="number"]:focus {
 
 @media (max-width: 1000px) {
   html {
-    font-size: 50%;
+    font-size: 62%;
   }
 
   .navbar {
@@ -1355,7 +1355,7 @@ input[type="number"]:focus {
 
 @media (max-width: 800px) {
   html {
-    font-size: 45%;
+    font-size: 62%;
   }
 
   .section-2 {
@@ -1374,7 +1374,7 @@ input[type="number"]:focus {
 @media (max-width: 550px) {
 
    html {
-    font-size: 50%;
+    font-size: 62%;
   }
   .navbar-logo {
     display: none;
@@ -1415,7 +1415,7 @@ input[type="number"]:focus {
 
 @media (max-width: 400px) {
   html {
-    font-size: 40%;
+    font-size: 62%;
   }
 
   .menu {
