@@ -67,7 +67,7 @@ html {
       rgba(38, 38, 38, 0.7),
       rgba(38, 38, 38, 0.6)
     ),
-    url(images/bgimage.jpg) center no-repeat;
+    url(images/bg.jpg) center no-repeat;
   background-size: cover;
   position: relative;
 }
